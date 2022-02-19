@@ -1,0 +1,156 @@
+body {
+  height: 2500px;
+  background: linear-gradient(rgba(34, 8, 65, 0.247), rgba(44, 9, 114, 0.507));
+}
+
+.main-info {
+  display: block;
+}
+
+.main-info a {
+  font-weight: 400;
+  text-decoration: none;
+  color: white;
+  padding-right: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.rec {
+  margin-top: 70px;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.text {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 4%;
+  margin-top: 20px;
+}
+
+.text p {
+  font-weight: 200;
+}
+
+.main-text {
+  display: flex;
+  padding-left: 210px;
+  padding-top: 150px;
+}
+
+.im {
+  display: block;
+  margin-left: 100px;
+  padding-top: 65px;
+  font-weight: 700;
+
+}
+
+.uu {
+  margin-top: 50px;
+}
+
+.uu a {
+  color:rgb(75, 16, 64);
+}
+
+.rec2 {
+  text-align: center;
+  position: relative;
+  bottom: 7px;
+  margin-left: 15px;
+}
+
+.we {
+  display: block;
+  padding-left: 150px;
+  padding-bottom: 20px;
+}
+
+.we2 {
+  padding-left: 150px;
+}
+
+.we p {
+  color: grey;
+}
+
+.we2 p {
+  color: grey;
+}
+
+.we3 p {
+  color: grey;
+}
+
+.we4 p {
+  color: grey;
+}
+
+.we12 {
+  padding-right: 150px;
+}
+
+.we3 {
+  padding-bottom: 20px;
+}
+
+.team {
+  display: block;
+  margin-top: 210px;
+}
+
+.re {
+  margin-top: 70px;
+  text-align: center;
+  margin-bottom: 70px;
+  padding-left: 870px;
+}
+
+.dim {
+  display: block;
+  padding-left: 150px;
+}
+
+.art {
+  display: block;
+  padding-right: 150px ;
+}
+
+.text2 {
+  display: flex;
+  padding-top: 70px;
+  justify-content: space-around;
+}
+
+.contacts {
+  margin-top: 210px;
+  display: block;
+}
+
+.text3 {
+  text-align: center;
+}
+
+.inst {
+  padding-right: 150px;
+}
+
+.tel {
+  padding-left: 150px;
+}
+
+.contacts a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.contacts a:hover {
+  text-decoration: underline;
+}
+
+
+
